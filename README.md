@@ -7,7 +7,7 @@
 Frontend-разработчик!
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-nikita_osipov59-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/qw1to)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-qw1to-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/qw1to)
 
 ---
 
